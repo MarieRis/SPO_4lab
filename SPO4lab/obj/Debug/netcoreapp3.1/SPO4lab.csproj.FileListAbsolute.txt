@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\учебка\3 курс\6 семестр\программное обеспечение\лабы мои\SPO4lab\SPO4lab\bin\Debug\netcoreapp3.1\SPO4lab.exe
+C:\Users\admin\Documents\учебка\3 курс\6 семестр\программное обеспечение\лабы мои\SPO4lab\SPO4lab\bin\Debug\netcoreapp3.1\SPO4lab.deps.json
+C:\Users\admin\Documents\учебка\3 курс\6 семестр\программное обеспечение\лабы мои\SPO4lab\SPO4lab\bin\Debug\netcoreapp3.1\SPO4lab.runtimeconfig.json
+C:\Users\admin\Documents\учебка\3 курс\6 семестр\программное обеспечение\лабы мои\SPO4lab\SPO4lab\bin\Debug\netcoreapp3.1\SPO4lab.runtimeconfig.dev.json
+C:\Users\admin\Documents\учебка\3 курс\6 семестр\программное обеспечение\лабы мои\SPO4lab\SPO4lab\bin\Debug\netcoreapp3.1\SPO4lab.dll
+C:\Users\admin\Documents\учебка\3 курс\6 семестр\программное обеспечение\лабы мои\SPO4lab\SPO4lab\bin\Debug\netcoreapp3.1\SPO4lab.pdb
+C:\Users\admin\Documents\учебка\3 курс\6 семестр\программное обеспечение\лабы мои\SPO4lab\SPO4lab\obj\Debug\netcoreapp3.1\SPO4lab.csprojAssemblyReference.cache
+C:\Users\admin\Documents\учебка\3 курс\6 семестр\программное обеспечение\лабы мои\SPO4lab\SPO4lab\obj\Debug\netcoreapp3.1\SPO4lab.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\учебка\3 курс\6 семестр\программное обеспечение\лабы мои\SPO4lab\SPO4lab\obj\Debug\netcoreapp3.1\SPO4lab.AssemblyInfo.cs
+C:\Users\admin\Documents\учебка\3 курс\6 семестр\программное обеспечение\лабы мои\SPO4lab\SPO4lab\obj\Debug\netcoreapp3.1\SPO4lab.dll
+C:\Users\admin\Documents\учебка\3 курс\6 семестр\программное обеспечение\лабы мои\SPO4lab\SPO4lab\obj\Debug\netcoreapp3.1\SPO4lab.pdb
+C:\Users\admin\Documents\учебка\3 курс\6 семестр\программное обеспечение\лабы мои\SPO4lab\SPO4lab\obj\Debug\netcoreapp3.1\SPO4lab.genruntimeconfig.cache
